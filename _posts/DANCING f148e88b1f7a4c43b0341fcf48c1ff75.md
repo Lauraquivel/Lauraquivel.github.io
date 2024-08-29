@@ -1,3 +1,15 @@
+---
+layout: post
+title: Sample blog post to learn markdown tips
+subtitle: There's lots to learn!
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
+mathjax: true
+author: Bill Smith
+---
+
 # DANCING
 
 SMP PROTOCOL (Server Message Block protocol (SMB protocol) is **a client-server communication protocol used for sharing access to files, printers, serial ports and other resources on a network**.)
